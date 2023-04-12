@@ -12,3 +12,4 @@ https://github.com/TommyTeaVee/MEAN-EXpress-MongoDB
 
 
 This is simple edit
+This project is for understanding CRUD
